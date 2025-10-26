@@ -131,7 +131,8 @@ A modern, professional personal website for Professor Imamul Islam, showcasing e
 ## 📞 Support & Contact
 
 For technical support or customization requests:
-- **Email**: prof.imamul@example.com
+- **Email**:professorimamulislam@gmail.com
+
 - **Website**: [Professor Imamul Islam's Website]
 - **Social Media**: Links available in the contact section
 
