@@ -1,0 +1,78 @@
+# Robots.txt for Professor Imamul Islam Portfolio
+# Generated: 2025-01-26
+
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Disallow indexing of system/backend files (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /.git/
+
+# Allow access to CSS and JS files for proper rendering
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# Sitemap location
+Sitemap: https://professorimamulislam.com/sitemap.xml
+
+# Crawl delay (optional - good for shared hosting)
+Crawl-delay: 1
+
+# Specific rules for major search engines
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# Baidu (China)
+User-agent: Baiduspider
+Allow: /
+
+# Yandex (Russia)
+User-agent: Yandex
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Social Media Bots (for link previews)
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Block bad bots and scrapers
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+# Note: Replace 'https://professorimamulislam.com' with your actual domain
+# Update sitemap URL when deploying to production

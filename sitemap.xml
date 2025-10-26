@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://professorimamulislam.com/</loc>
+        <lastmod>2025-01-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://professorimamulislam.com/" />
+        <xhtml:link rel="alternate" hreflang="bn" href="https://professorimamulislam.com/?lang=bn" />
+    </url>
+    
+    <!-- About Section -->
+    <url>
+        <loc>https://professorimamulislam.com/#about</loc>
+        <lastmod>2025-01-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://professorimamulislam.com/#about" />
+        <xhtml:link rel="alternate" hreflang="bn" href="https://professorimamulislam.com/?lang=bn#about" />
+    </url>
+    
+    <!-- Services Section -->
+    <url>
+        <loc>https://professorimamulislam.com/#services</loc>
+        <lastmod>2025-01-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://professorimamulislam.com/#services" />
+        <xhtml:link rel="alternate" hreflang="bn" href="https://professorimamulislam.com/?lang=bn#services" />
+    </url>
+    
+    <!-- Portfolio Section -->
+    <url>
+        <loc>https://professorimamulislam.com/#portfolio</loc>
+        <lastmod>2025-01-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://professorimamulislam.com/#portfolio" />
+        <xhtml:link rel="alternate" hreflang="bn" href="https://professorimamulislam.com/?lang=bn#portfolio" />
+    </url>
+    
+    <!-- Blog Section -->
+    <url>
+        <loc>https://professorimamulislam.com/#blog</loc>
+        <lastmod>2025-01-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://professorimamulislam.com/#blog" />
+        <xhtml:link rel="alternate" hreflang="bn" href="https://professorimamulislam.com/?lang=bn#blog" />
+    </url>
+    
+    <!-- Achievements Section -->
+    <url>
+        <loc>https://professorimamulislam.com/#achievements</loc>
+        <lastmod>2025-01-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://professorimamulislam.com/#achievements" />
+        <xhtml:link rel="alternate" hreflang="bn" href="https://professorimamulislam.com/?lang=bn#achievements" />
+    </url>
+    
+    <!-- Contact Section -->
+    <url>
+        <loc>https://professorimamulislam.com/#contact</loc>
+        <lastmod>2025-01-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://professorimamulislam.com/#contact" />
+        <xhtml:link rel="alternate" hreflang="bn" href="https://professorimamulislam.com/?lang=bn#contact" />
+    </url>
+    
+    <!-- Individual Blog Posts (if you create separate pages) -->
+    <url>
+        <loc>https://professorimamulislam.com/blog/seo-ai-future</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://professorimamulislam.com/blog/web-security</loc>
+        <lastmod>2024-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://professorimamulislam.com/blog/social-security</loc>
+        <lastmod>2024-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://professorimamulislam.com/blog/digital-bangladesh</loc>
+        <lastmod>2024-07-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://professorimamulislam.com/blog/conversion-optimization</loc>
+        <lastmod>2024-06-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
